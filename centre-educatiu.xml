@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>IB3 Notícies - Centres educatius</title>
+    <link>https://ib3.org/</link>
+    <description>Selecció de notícies relacionades amb centres educatius de les Illes Balears</description>
+    <language>ca-es</language>
+
+    <item>
+      <title>La Guàrdia Civil retira a un centre educatiu d’Artà un explosiu emprat a les aules fa 30 anys</title>
+      <link>https://ib3.org/la-guardia-civil-retira-a-un-centre-educatiu-darta-un-explosiu-emprat-a-les-aules-fa-30-anys</link>
+      <description>La Guàrdia Civil ha retirat, a un institut d’Artà, un pot d’àcid pícric, un explosiu molt potent que formava part de kits químics distribuïts als instituts fa uns 30 anys.</description>
+      <pubDate>Sat, 14 Dec 2024 09:30:00 +0100</pubDate>
+      <guid>https://ib3.org/?p=480076</guid>
+    </item>
+
+    <item>
+      <title>El Govern iniciarà el 2026 noves ampliacions i construccions en centres educatius de les Balears</title>
+      <link>https://ib3.org/el-govern-iniciara-el-2026-noves-ampliacions-i-construccions-en-centres-educatius-de-les-balears</link>
+      <description>Durant el 2026, l’IBISEC té previst iniciar noves ampliacions i construccions en centres educatius de totes les Illes per crear més places i millorar els espais.</description>
+      <pubDate>Sat, 03 Jan 2026 09:30:00 +0100</pubDate>
+      <guid>https://ib3.org/?p=502171</guid>
+    </item>
+
+  </channel>
+</rss>
